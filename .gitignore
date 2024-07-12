@@ -1,3 +1,6 @@
+out
+.vs
+
 data/data.csv
 data/out
 data/.vs

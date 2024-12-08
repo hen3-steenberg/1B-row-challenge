@@ -1,5 +1,6 @@
 #include "shared/station_statistics.hpp"
 #include "data/file_locations.hpp"
+#include "shared/memory_mapped_file.hpp"
 
 #include <map>
 #include <vector>
